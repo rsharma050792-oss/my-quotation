@@ -1,0 +1,10 @@
+# Multitech Motors - Quotation & Dealer Management App
+
+Official Android application for Multitech Motors (A unit of Shree Shyam Group) for managing vehicle quotations, free stock, and all dealer stock.
+
+## Features
+- Secure Login with Email/Password, Google Sign-In, and Biometric Fingerprint/Face ID.
+- Real-time Google Sheets stock sync with lightning-fast offline caching.
+- Dynamic vehicle quotation generator with cascading dropdowns (MFG Year ➔ Model ➔ Fuel Type ➔ Variant ➔ Color ➔ Ex-Showroom ➔ Discounts ➔ Billing Price).
+- Professional PDF invoice generation and direct WhatsApp sharing.
+- In-app automatic update checker.
